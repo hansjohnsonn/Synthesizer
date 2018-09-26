@@ -1,4 +1,4 @@
-# Raspberry-Pi-Looper-synth-drum-thing
+# Raspberry-Pi-Music-Box
 Courtsey of Toby (otem rellik)
 
 Proposed Hardware Components (left out some usb male/female connections, push buttons and audio output):
@@ -15,7 +15,7 @@ Mux: https://www.sparkfun.com/products/9056
 
 Buttons: https://www.sparkfun.com/products/7835
 
-Button PCB (I drilled out holes where the leds go to use neopixels): https://www.sparkfun.com/products/8033
+Button PCB: https://www.sparkfun.com/products/8033
 
 NeoPixels: https://www.adafruit.com/product/1612
 
