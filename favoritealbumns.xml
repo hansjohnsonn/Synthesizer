@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="favoritealbumns.xsl"?>
+<library>
+	<albumn>
+		<title>FACE TAT</title>
+		<author>Zach Hill</author>
+		<year>2010</year>
+		<genre elements="Industrial, Electronic, Modern-rock">Fushion</genre>
+		<images>
+			<image url="https://upload.wikimedia.org/wikipedia/en/0/07/City_Club_The_Growlers.jpg"/>
+			<height units="pixels">300</height>
+			<width units="pixels">300</width>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Face_Tat">link</overview>
+		</links>
+	</albumn>
+	<albumn>
+		<title>City Club</title>
+		<author>The Growlers</author>
+		<year>2016</year>
+		<genre elements="Beach-rock">Alternative Rock</genre>
+		<images>
+			<image size="100px" url="https://upload.wikimedia.org/wikipedia/en/a/a9/Zach_Hill_-_Face_Tat.jpg"/>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/City_Club_(album)">link</overview>
+		</links>
+	</albumn>
+	<albumn>
+		<title>Money Jungle</title>
+		<author>Duke Ellington</author>
+		<year>1963</year>
+		<genre elements="Post-bop">Jazz</genre>
+		<images>
+			<image url="https://upload.wikimedia.org/wikipedia/en/d/d8/Moneyjungle.jpg"/>
+			<height units="pixels">300</height>
+			<width units="pixels">300</width>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Money_Jungle">link</overview>
+		</links>
+	</albumn>
+</library>
