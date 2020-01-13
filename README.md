@@ -1,5 +1,4 @@
 # Raspberry-Pi-Music-Box
-Courtsey of Toby (otem rellik)
 
 Proposed Hardware Components (left out some usb male/female connections, push buttons and audio output):
 
@@ -28,3 +27,5 @@ Slide Pots: https://www.sparkfun.com/products/11621
 Sound Card: https://www.sweetwater.com/store/detail/UCA222
 
 3D Model: http://www.thingiverse.com/thing:2318194
+
+Made with help from Toby (otem rellik)
